@@ -6,14 +6,19 @@ The game allows two players to play turn-by-turn and automatically detects win o
 # Features
 
 Two player gameplay (X vs O)
+
 Automatic winner detection
+
 Draw detection
+
 Restart / Reset game option
 
 # Technologies Used
 
 HTML
+
 CSS
+
 JavaScript (DOM manipulation & event handling)
 
 # Learning Outcomes:
@@ -26,3 +31,4 @@ Game logic implementation
 
 Basic UI design
 # LiveDemo:
+ https://jessywesneena.github.io/PRODIGY_WD_03/
