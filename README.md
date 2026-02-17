@@ -1,25 +1,36 @@
 Tic Tac Toe Web Application:
 
-A simple and interactive Tic Tac Toe game built using HTML, CSS, and JavaScript.
-Play with a friend in the browser and enjoy the classic 3×3 grid game!
+A simple browser-based Tic Tac Toe game developed using HTML, CSS and JavaScript.
+The game allows two players to play turn-by-turn and automatically detects win or draw conditions.
 
 Features:
 
-Two-player gameplay (Player X vs Player O)
-Detects winner automatically
-Draw match detection
-Restart game button
+Two player gameplay (X vs O)
+
+Automatic winner detection
+
+Draw detection
+
+Restart / Reset game option
+
+Responsive user interface
 
 Technologies Used:
 
-HTML – Structure of the game board
-CSS – Styling and layout
-JavaScript – Game logic and interactions
+HTML
 
-Game Rules:
+CSS
 
-Players take turns marking X and O
-First player to get 3 in a row wins
-If all boxes are filled → Match Draw
+JavaScript (DOM manipulation & event handling)
 
-LiveDemo:
+Learning Outcomes:
+
+This project helped in understanding:
+
+DOM manipulation
+
+Event listeners
+
+Game logic implementation
+
+Basic UI design
